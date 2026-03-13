@@ -1,7 +1,6 @@
 # 📊 E-Commerce Funnel Analysis Dashboard
----
 
-![E-Commerce Funnel Analysis Dashboard](https://github.com/Aditya09x-afk/Funnel-Analysis-Project/blob/main/workflow_funnel.png?raw=true)
+![E-Commerce Funnel Analysis Dashboard](https://github.com/Aditya09x-afk/Funnel-Analysis-Project/blob/main/workflow.png)
 
 ---
 This project presents a complete end-to-end data analytics workflow that analyzes how users move through an e-commerce purchase funnel. The goal is to identify conversion rates, drop-off points, and revenue drivers using **Python** for data analysis and **Power BI** for interactive visualization.

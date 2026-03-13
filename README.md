@@ -1,5 +1,7 @@
 # 📊 E-Commerce Funnel Analysis Dashboard
+---
 
+---
 This project presents a complete end-to-end data analytics workflow that analyzes how users move through an e-commerce purchase funnel. The goal is to identify conversion rates, drop-off points, and revenue drivers using **Python** for data analysis and **Power BI** for interactive visualization.
 
 The project simulates real-world user activity data, performs exploratory data analysis (EDA), and builds a business-focused dashboard to generate actionable insights.

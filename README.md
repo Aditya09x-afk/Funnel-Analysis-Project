@@ -113,11 +113,24 @@ A 3-page interactive dashboard designed to analyze funnel performance and market
 
 ---
 
-## 💡 Key Insights
-- Identify conversion bottlenecks in the funnel  
-- Understand which marketing channels drive revenue  
-- Analyze customer behavior across devices  
-- Optimize the user journey to improve conversions  
+# 💡 Key Insights
+
+- **Critical Funnel Leakage at Checkout**  
+  Only 20.87% overall conversion, with ~37.5% drop at checkout → purchase.  
+  Biggest revenue leak occurs at the final stage.
+
+- **No Strong Channel Differentiation**  
+  Revenue from all channels is almost equal (~0.57–0.59M).  
+  Marketing spend may be unoptimized, with no clear high-ROI channel.
+
+- **Balanced Traffic but Uneven Performance**  
+  Devices and regions are evenly distributed, but performance varies.  
+  Drop-offs and bounce rates differ across segments.
+
+- **Weak User Engagement & Mobile Underperformance**  
+  Avg Views: 2.26, Bounce Rate: 29.38%.  
+  Mobile has ~80% drop-off despite ~33% traffic share.  
+  Users fail to explore deeply and convert on mobile.
 
 ---
 
